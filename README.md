@@ -1,4 +1,4 @@
-# IA-com-Modelo-resnet50
+# IA-com-Modelo-efficientnetB2
 Implementação feita para cadeira de Inteligencia Artificial para detecção de hemorragias intracranianas
 
 # Base de dados usada:
